@@ -1,5 +1,5 @@
 # Social networking websites
-Data set containing information about social networking websites extracted on 27th october 2020. Data set is available in .json and .csv formats. 
+Example Data set for college task containing information about social networking websites extracted on 27th october 2020. Data set is available in .json and .csv formats. 
 
 ## json keys description
 
